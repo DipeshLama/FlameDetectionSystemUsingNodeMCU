@@ -11,8 +11,8 @@ int Flame_detected;
 
 BlynkTimer timer;
 char auth[] = "K6SJQK7Zfbo-ZTw1MMZrymznlUjRttZh"; //Auth code sent via Email
-char ssid[] = "Anil"; //include wifi SSID 
-char pass[] = "123456789"; //Include wifi password
+char ssid[] = "Dipesh"; //include wifi SSID 
+char pass[] = "12345678"; //Include wifi password
 
 void notifyOnFire()
 {
